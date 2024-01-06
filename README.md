@@ -1,4 +1,4 @@
-Hi! My name is João Victor Diniz. I'm 15 years old.
+Hi! My name is João Victor Diniz. I was born in 2008.
 <br>
 I study systems development at J&F Institute. I work at JBS as a back-end developer.
 <br>
