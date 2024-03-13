@@ -1,6 +1,6 @@
 Hi! My name is João Victor Diniz. I was born in 2008.
 <br>
-I study systems development at J&F Institute. I work at JBS as a back-end developer.
+I study systems development at J&F Institute. I work at JBS as a developer.
 <br>
 <br>
 [<kbd> <br> Linkedin <br> </kbd>][Link]
