@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is João Victor Diniz. I was born in 2008 in Sao Paulo, Brazil!<br/>I study systems development at J&F Institute. I work at JBS as a back-end and RPA developer.</h2>
+<h2 align="left">Hi! My name is João Diniz Araujo. I was born in 2008 in Sao Paulo, Brazil!<br/>I study systems development at J&F Institute. I work at JBS as a back-end and RPA developer.</h2>
 
 ###
 
