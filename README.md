@@ -7,7 +7,7 @@
 
 ### Tools I've already worked with:
 - **Languages**: Java, Python, JavaScript, C#, C/C++, PHP
-- **Frameworks & Libs**: Spring, Pandas, React, PyAutoGUI
+- **Frameworks & Libs**: Spring, Pandas, React, PyAutoGUI, Tesseract
 - **Databases**: MongoDB, PostgreSQL, Neo4j, Redis, Firebase, MySQL
 - **DevOps & Cloud**: Docker, GitHub Actions, AWS
 - **Operating Systems**: Windows, Linux, Android
