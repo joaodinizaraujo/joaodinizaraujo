@@ -3,9 +3,9 @@
 ###
 
 ### Tools I've already worked with:
-- **Languages**: Java, Python, JavaScript, C#, C++, C, PHP
+- **Languages**: Java, Python, JavaScript, C#, C/C++, PHP
 - **Frameworks & Libs**: Spring, Pandas, React
-- **Databases**: MongoDB, PostgreSQL, Neo4j, Redis, Firebase, Neo4j, MySQL
+- **Databases**: MongoDB, PostgreSQL, Neo4j, Redis, Firebase, MySQL
 - **DevOps & Cloud**: Docker, GitHub Actions, AWS
 - **Operating Systems**: Windows, Linux, Android
 
