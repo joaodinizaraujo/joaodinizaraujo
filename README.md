@@ -6,7 +6,7 @@
 ###
 
 ### Tools I've already worked with:
-- **Languages**: Java, Python, JavaScript, C#, C/C++, PHP
+- **Languages**: Java, Python, JavaScript, C#, C/C++, PHP, Elixir
 - **Frameworks & Libs**: Spring, Pandas, React, PyAutoGUI, Tesseract, scikit-learn
 - **Databases**: MongoDB, PostgreSQL, Neo4j, Redis, Firebase, MySQL
 - **DevOps & Cloud**: Docker, GitHub Actions, AWS
