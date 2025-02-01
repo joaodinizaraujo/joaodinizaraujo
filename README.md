@@ -6,7 +6,7 @@
 ###
 
 ### Tools I've already worked with:
-- **Languages**: Java, Python
+- **Languages**: Java, Python, C/C++
 - **Frameworks & Libs**: Spring, Pandas, PyAutoGUI, Tesseract, scikit-learn
 - **Databases**: MongoDB, PostgreSQL, Neo4j, Redis, Firebase, MySQL
 - **DevOps & Cloud**: Docker, GitHub Actions, AWS
