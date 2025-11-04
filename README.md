@@ -1,6 +1,6 @@
 <h2 align="left">
   Hi! My name is João Diniz Araujo. I was born in 2008 in São Paulo, Brazil!<br/>
-  I'm passionate about technology, automation, and music. I study systems development at J&F Institute and work at JBS as a back-end and RPA developer.
+  I'm passionate about technology, finance, and music. I studied systems development at J&F Institute and I currently work at JBS developing back-end and RPA solutions.
 </h2>
 
 ###
