@@ -1,13 +1,15 @@
 <h2 align="left">
   Hi! My name is João Diniz Araujo. I was born in 2008 in São Paulo, Brazil!<br/>
-  I'm passionate about technology, finance, and music. I studied systems development at J&F Institute and I currently work at JBS developing back-end and RPA solutions.
+  I'm passionate about technology, finance, and music.<br/>
+  Currently graduating in Computational and Applied Math at University of Sao Paulo and working at JBS developing back-end and RPA solutions.<br/>
+  I studied Systems Development at J&F Institute.
 </h2>
 
 ###
 
 ### Tools I've already worked with:
 - **Languages**: Java, Python, C/C++
-- **Frameworks & Libs**: Spring, Pandas, PyAutoGUI, Tesseract, scikit-learn, PyTorch, FastAPI
+- **Frameworks & Libs**: Spring, Pandas, PyAutoGUI, Tesseract, scikit-learn, PyTorch, FastAPI, Django
 - **Databases**: MongoDB, PostgreSQL, Neo4j, Redis, Firebase, MySQL
 - **DevOps & Cloud**: Docker, GitHub Actions, AWS
 - **Operating Systems**: Windows, Linux, Android
