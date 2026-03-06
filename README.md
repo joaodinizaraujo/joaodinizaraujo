@@ -1,7 +1,7 @@
 <h2 align="left">
   Hi! My name is João Diniz Araujo. I was born in 2008 in São Paulo, Brazil!<br/>
   I'm passionate about technology, finance, and music.<br/>
-  Currently graduating in Computational and Applied Math at University of Sao Paulo and working at JBS developing back-end and RPA solutions.<br/>
+  Currently graduating in Applied and Computer Mathematics at University of Sao Paulo and working at JBS developing back-end and RPA solutions.<br/>
   I studied Systems Development at J&F Institute.
 </h2>
 
